@@ -77,3 +77,5 @@ All of this happens in less than a second.
 # Epilogue
  The next time you find yourself typing ```https://www.google.com``` i hope you remember that your request just traveled across the internet, hit multiple layers of security and logic, talked to several powerful systems and the came back in a literal blink of an eye.
 
+If you're more of a visual type, I encourage you to check out the following <a href="https://github.com/Paola-cmyk/holbertonschool-network/blob/main/what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.md" target="_blank">file</a>
+ which shows a diagram or skeleton of this whole process.
