@@ -2,7 +2,7 @@
 
 The thing we do every day, open a browser, type a URL, and press Enter. And yet, have you ever wondered what the behind the scenes are when you go to a website on google? The small amount of time it takes for this complex chain of events to work. Traveling across networks, servers and sstems just to deliver the page to your screen.
 
-### DNS lookup
+# DNS lookup
 The very first thing  your browser needs to do is where ```www.google.com``` actually exists on the internet. Computers communicate using numerical IP addresses which are not human-readable domain names. This is where the Domain Name System (DNS) makes its debut, acting like the internet's phonebook.
 
 - The browser checks if it knows the IP address
